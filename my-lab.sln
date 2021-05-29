@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid", "solid\solid.csproj", "{8B2E21ED-2B17-49E9-A6B8-79AFA1F4FBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-9-features", "c-sharp-9-features\c-sharp-9-features.csproj", "{700E6159-1EAB-41A0-9C12-144CC2DB3FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2E21ED-2B17-49E9-A6B8-79AFA1F4FBCF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8B2E21ED-2B17-49E9-A6B8-79AFA1F4FBCF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8B2E21ED-2B17-49E9-A6B8-79AFA1F4FBCF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8B2E21ED-2B17-49E9-A6B8-79AFA1F4FBCF}.Release|anycpu.Build.0 = Release|anycpu
+		{700E6159-1EAB-41A0-9C12-144CC2DB3FD6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{700E6159-1EAB-41A0-9C12-144CC2DB3FD6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{700E6159-1EAB-41A0-9C12-144CC2DB3FD6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{700E6159-1EAB-41A0-9C12-144CC2DB3FD6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729F05B4-CB8C-45E7-94AC-FC9F38EA2848}
+	EndGlobalSection
+EndGlobal
